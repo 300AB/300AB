@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- README.md for github.com/300AB -->
 
-<!--
-**300AB/300AB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⪻ ∶∶∶ Welcome ∶∶∶ ⪼</h1>
+<p align="center">  
+<br>✦  ✧  ✦  <i>Esto id sentis</i>  ✦ ✧ ✦  
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>• glyphbound dev</b><br>
+  <b>• markdown sorcery & ascii design</b><br>
+  <b>• CSS illusions in pure dark</b><br>
+  <b>• I stat things that shouldn’t be statted</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues&count_private=true" />
+</p>
