@@ -17,8 +17,3 @@
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.zcy.dev/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues" /> </p>
-
-![GitHub Stats]()
-
-
-
