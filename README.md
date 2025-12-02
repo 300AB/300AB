@@ -16,5 +16,13 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues&count_private=true)
+<!-- Using the Cloudflare‑hosted fork of github‑readme‑stats -->
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues)
+
+<!-- Using the simpler stats generator from omsimos/github‑stats -->
+![GitHub Stats (github-stats)](https://github-stats.omsimos.com/api?username=300AB&show_icons=true&theme=radical)
+
+<!-- Using the fork with academic-style stats-->
+![GitHub Academic Stats](https://github-readme-stats-academic.vercel.app/api/academic?username=300AB)
+
 
