@@ -16,13 +16,9 @@
 
 <br>
 
-<!-- Using the Cloudflare‑hosted fork of github‑readme‑stats -->
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues)
+<p align="center"> <img src="https://github-readme-stats.zcy.dev/api?username=300AB&show_icons=true&theme=radical&hide_title=true&hide=issues" /> </p>
 
-<!-- Using the simpler stats generator from omsimos/github‑stats -->
-![GitHub Stats (github-stats)](https://github-stats.omsimos.com/api?username=300AB&show_icons=true&theme=radical)
+![GitHub Stats]()
 
-<!-- Using the fork with academic-style stats-->
-![GitHub Academic Stats](https://github-readme-stats-academic.vercel.app/api/academic?username=300AB)
 
 
